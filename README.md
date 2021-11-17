@@ -1,0 +1,5 @@
+- Returns Random UFO Sighting Data procured from - https://www.kaggle.com/NUFORC/ufo-sightings/version/2?select=scrubbed.csv
+- Instructions to run:
+    - Clone/ Download Repository
+    - Install flask and pandas
+    - run by running main.py and open the link generated
